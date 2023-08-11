@@ -28,5 +28,3 @@ This program is perfect for you if you only have one account that you want to bo
 Program preview of SingleBoostr: 
 
 ![Preview](http://i.imgur.com/nHiLGia.png)
-
-
